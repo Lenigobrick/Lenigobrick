@@ -23,6 +23,7 @@ _ _ _ _
 <p align="left">
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Lenigobrick/Lenigobrick/blob/6cf5cb0ab0aeea06661aee57eaf19d252e4fb04f/icon/PyTorch.png" width="30" height="36" alt="PyTorch" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Lenigobrick/Lenigobrick/blob/6cf5cb0ab0aeea06661aee57eaf19d252e4fb04f/icon/tensorflow.png" width="32" height="36" alt="TensorFlow" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Lenigobrick/Lenigobrick/blob/146e1ca55b97d26e074c630ccd0f16a64dfd2493/icon/TypeScript.png" width="36" height="36" alt="TypeScript" /></a>
 </p>
 
 
