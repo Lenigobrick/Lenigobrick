@@ -28,9 +28,9 @@ _ _ _ _
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Lenigobrick" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
+<p align="left"> <a href="https://www.github.com/Lenigobrick" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Lenigobrick/Lenigobrick/blob/7682f818a60bbd8b4d4ef570ef564c01484087a7/icon/GitHub-Light.png" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/Lenigobrick/Lenigobrick/blob/7682f818a60bbd8b4d4ef570ef564c01484087a7/icon/github.png" /> <img src="https://github.com/Lenigobrick/Lenigobrick/blob/7682f818a60bbd8b4d4ef570ef564c01484087a7/icon/github.png" width="32" height="32" /> </picture> </a> 
 <a href="https://www.youtube.com/@Lenigobrick" target="_blank" rel="noreferrer"> <img src="https://github.com/Lenigobrick/Lenigobrick/blob/6cf5cb0ab0aeea06661aee57eaf19d252e4fb04f/icon/Youtube.png" width="32" height="32" alt="YouTube" /> </a></p>
 
-### Badges
+### Top Languages
 
 <a href="https://github.com/Lenigobrick" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenigobrick&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
