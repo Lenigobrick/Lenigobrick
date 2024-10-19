@@ -15,7 +15,8 @@ _ _ _ _
 <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://github.com/Lenigobrick/Lenigobrick/blob/6cf5cb0ab0aeea06661aee57eaf19d252e4fb04f/icon/arduino.png" width="36" height="36" alt="Arduino" /></a>
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Lenigobrick/Lenigobrick/blob/6cf5cb0ab0aeea06661aee57eaf19d252e4fb04f/icon/raspberrypi.png" width="30" height="36" alt="Raspberry Pi" /></a>
 <a href="https://www.ganttproject.biz/" target="_blank" rel="noreferrer"><img src="https://github.com/Lenigobrick/Lenigobrick/blob/6cf5cb0ab0aeea06661aee57eaf19d252e4fb04f/icon/Gantt.png" width="36" height="36" alt="Gantt Project" /></a>
-
+<a href="https://www.autodesk.com/products/fusion-360/" target="_blank" rel="noreferrer"><img src="https://github.com/Lenigobrick/Lenigobrick/blob/6cf5cb0ab0aeea06661aee57eaf19d252e4fb04f/icon/fusion360.png" width="32" height="36" alt="Fusion 360" /></a>
+<a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank" rel="noreferrer"><img src="https://github.com/Lenigobrick/Lenigobrick/blob/6cf5cb0ab0aeea06661aee57eaf19d252e4fb04f/icon/davinciresolve.png" width="32" height="36" alt="Davinci Resolve" /></a>
 </p>
 
 
