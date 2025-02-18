@@ -23,7 +23,7 @@ _ _ _ _
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Lenigobrick" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Lenigobrick/Lenigobrick/blob/7682f818a60bbd8b4d4ef570ef564c01484087a7/icon/GitHub-Light.png" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/Lenigobrick/Lenigobrick/blob/7682f818a60bbd8b4d4ef570ef564c01484087a7/icon/github.png" /> <img src="https://github.com/Lenigobrick/Lenigobrick/blob/7682f818a60bbd8b4d4ef570ef564c01484087a7/icon/github.png" width="32" height="32" /> </picture> </a> 
-<a href="https://www.youtube.com/@Lenigobrick" target="_blank" rel="noreferrer"> <img src="https://github.com/Lenigobrick/Lenigobrick/blob/6cf5cb0ab0aeea06661aee57eaf19d252e4fb04f/icon/Youtube.png" width="35" height="26" alt="YouTube" /> </a></p>
+<a href="https://www.youtube.com/@Lenicode" target="_blank" rel="noreferrer"> <img src="https://github.com/Lenigobrick/Lenigobrick/blob/6cf5cb0ab0aeea06661aee57eaf19d252e4fb04f/icon/Youtube.png" width="35" height="26" alt="YouTube" /> </a></p>
 
 ### Top Languages
 
